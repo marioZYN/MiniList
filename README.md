@@ -3,7 +3,7 @@
 
 MiniList is a fully gesture based to-do list app with minimalism design style. It is easy to use and suitable for quick note and time tracking. MiniList is developed using Swift 4 and Xcode. 
 
-Here are some key features:
+Here are some key features. For more details, check with the design document and video.
 1. pull down to add new plans; swipe right to mark the plan as finished; swipe left to delete the plans
 
 ![add new plan](./images/new_plans.gif)
